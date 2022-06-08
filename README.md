@@ -12,14 +12,12 @@
   <span>🌍 Me localizo em Maceió-AL</span>
 </div>
 
-  <br>
-  <br>
-  <br>
+<br>
+<br>
+<br>
 
+<h3 align="center"><strong>Skills 🚩</strong></h3>
 <img align="left" width="220px" src="https://pbs.twimg.com/media/ERuovKyWoAUdaIb.jpg" />
-
-<h2 align="center"><strong>Skills 🚩</strong></h2>
-
 <br>
 <br>
 <br>
