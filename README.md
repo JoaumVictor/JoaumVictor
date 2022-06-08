@@ -16,7 +16,7 @@
   <br>
   <br>
 
-<img align="left" width="220px" src="./img/todoroki.gif" />
+<img align="left" width="220px" src="https://pbs.twimg.com/media/ERuovKyWoAUdaIb.jpg" />
 
 <h2 align="center"><strong>Skills 🚩</strong></h2>
 
