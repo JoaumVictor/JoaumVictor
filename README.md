@@ -1,22 +1,30 @@
-<img src="./meuicone.jpg" align="right" /><br><br><br><br>
+<img src="./img/meuicone.jpg" align="right" /><br><br><br><br>
 
-<h1 align="center">Victor Dev 🍪☕</h1>
+<h2 align="center">Victor Dev 🍪☕</h2>
 
-<p align="center">
+<div align="center">
   <span>🚩 Desenvolvedor Fullstack</span>
   <br>
   <span>🏮 Gosto de assistir animes e jogar videogame 🎮</span>
   <br>
   <span>🏹 Professional bug hunter</span>
   <br>
-  <span>🌍 Moro em Maceió-AL</span>
-  <br>
-</p>
+  <span>🌍 Me localizo em Maceió-AL</span>
+</div>
 
-#
+  <br>
+  <br>
+  <br>
+
+<img align="left" width="220px" src="./img/todoroki.gif" />
 
 <h2 align="center"><strong>Skills 🚩</strong></h2>
-<p align="center">
+
+<br>
+<br>
+<br>
+
+<div align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -42,8 +50,11 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<br>
+<br>
+<br>
 
-  </p>
+</div>
 
 <br>
 
