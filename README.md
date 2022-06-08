@@ -1,24 +1,19 @@
-<img src="./meuicone.jpg" align="left" /><br><br><br><br>
+<img src="./meuicone.jpg" align="right" /><br><br><br><br>
 
-<h2 align="center">Victor Dev 🍪☕</h2>
+<h1 align="center">Victor Dev 🍪☕</h1>
 
 <p align="center">
   <span>🚩 Desenvolvedor Fullstack</span>
   <br>
-  <span>🏮 Gosto de ver animação japonesa e jogar videogame 🎮</span>
+  <span>🏮 Gosto de assistir animes e jogar videogame 🎮</span>
   <br>
   <span>🏹 Professional bug hunter</span>
   <br>
-  <span>🌍 Eu moro em Maceió-AL</span>
-  <br>
+  <span>🌍 Moro em Maceió-AL</span>
   <br>
 </p>
 
-<br>
-
 #
-
-<br>
 
 <h2 align="center"><strong>Skills 🚩</strong></h2>
 <p align="center">
