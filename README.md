@@ -1,17 +1,17 @@
-<img src="./img/myicon.jpg" align="right" width="270px" /><br><br><br><br>
+<img src="./img/myicon.jpg" align="right" width="290px" /><br><br><br><br>
 
-<h2 align="center"> < Victor Dev 🍪☕ /> </h2>
+<p align="center" style="font-size: 30px"> < Victor Dev 🍪☕ /> </p>
 <div align="center">
   <h4>🚩 Desenvolvedor Fullstack</h4>
   <h4>🏮 Gosto de assistir animes e jogar videogame 🎮</h4>
   <h4>🏹 Professional bug hunter</h4>
   <br/>
-  <a href="https://www.linkedin.com/in/victorfausto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/joaumvictor.oficial/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/victorfausto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/joaumvictor.oficial/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </div>
 
 <br><br/>
 
-<hr/>
 <h2 style="text-align: center">Stacks Front-end 🚩</h2>
 <div align="center">
   <br>
@@ -21,9 +21,9 @@
   <img alt="TypeScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Redux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img alt="nextjs" width="60" height="60" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>
+  <img alt="nextjs" width="60" height="60" src="https://assets.website-files.com/6129056efc746238daf580ad/627a7c293265949d610611dd_nextjs-boilerplate-logo.png"/>
 
-  <br>
+  <br/>
 
   <img  alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="60" height="60"/>
   <img alt="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60"/>
@@ -32,9 +32,8 @@
   <img alt="styled-component" src="https://camo.githubusercontent.com/5174ecc6e5da108f3afce948d39f9f11097c29e303fa6050c3aa3e16cc965459/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3136302f6170706c652f3139382f6e61696c2d706f6c6973685f31663438352e706e67" width="60" height="60"/>
 </div>
 
-<br>
+<br/><br/>
 
-<hr/>
 <h2 style="text-align: center">Stacks Back-end 🌐</h2>
 <div align="center">
   <br>
@@ -45,9 +44,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
 </div>
 
-<br>
+<br/><br/>
 
-<hr/>
 <h2 style="text-align: center">Ferramentas 🛠️</h2>
 <div align="center">
   <br>
@@ -61,9 +59,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
 </div>
 
-<br/>
+<br/><br/>
 
-<hr/>
 <h2 style="text-align: center">Estudando 📚</h2>
 <div align="center">
   <br>
@@ -71,9 +68,8 @@
   <img alt="MUI-design" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
 </div>
 
-<br/>
+<br/><br/>
 
-<hr/>
 <h2 style="text-align: center">Estatísticas 📈</h2>
 <div align="center">
   <br/>
