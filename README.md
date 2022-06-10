@@ -1,10 +1,10 @@
-<img src="./img/myicon.jpg" align="right" width="320px" /><br><br><br><br>
+<img style="border-radius: 50px" src="./img/myicon.jpg" align="right" width="320px" /><br><br><br><br>
 
 <h1 align="center"> < Victor Dev 🍪☕ /> </h1>
 <div align="center">
   <h4>🚩 Desenvolvedor Fullstack</h4>
   <h4>🏮 Gosto de assistir animes e jogar videogame 🎮</h4>
-  <h4>🏹 Professional bug hunter</h4>
+  <h4>🏹 Professional bug <s>developer</s> hunter</h4>
   <br/>
   <a href="https://www.linkedin.com/in/victorfausto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/joaumvictor.oficial/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
@@ -12,7 +12,7 @@
 
 <br><br/><br/>
 
-<h2 align="center">Stacks Front-end 🚩</h2>
+<h2 align="center">Frontend 🚩</h2>
 <div align="center">
   <br>
   <img alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-<h2 align="center">Stacks Back-end 🌐</h2>
+<h2 align="center">Backend 🌐</h2>
 <div align="center">
   <br>
   <img alt="NodeJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">     
@@ -49,8 +49,10 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
   <img src="https://www.samuelathanas.com/images/skills/backend/express.png" alt="express" width="60" height="60"/>
+  
   <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" alt="mocka" width="60" height="60"/>
-
+  <img src="https://sinonjs.org/assets/images/logo.png" alt="sinon" width="60" height="60"/>
+  <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chai" width="60" height="60"/>
 </div>
 
 <br/><br/>
@@ -59,23 +61,24 @@
 <div align="center">
   <br>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCODE" width="60" height="60"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/541/541586.png" alt="photoshop" width="60" height="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="slack" width="60" height="60"/>
+  <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" alt="insomnia" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="dbeaver" width="60" height="60"/>
+  
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="60" width="70"/> 
   <img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
   <img src="https://icon-library.com/images/trello-icon-png/trello-icon-png-5.jpg" alt="trello" width="60" height="60"/>
- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="slack" width="60" height="60"/>
- <img src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" alt="heroku" width="60" height="60"/>
- <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="60" height="60"/>
- <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" alt="insomnia" width="60" height="60"/>
- 
+  <img src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" alt="heroku" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="60" height="60"/>
 </div>
 
 <br/><br/>
 
-<h2 align="center">Estudando 📚</h2>
+<h2 align="center">Estudando Atualmente 📚</h2>
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/>
@@ -86,7 +89,7 @@
 
 <h2 align="center">Estatísticas 📈</h2>
 <div align="center">
-  <br/>
-  <a href="http://www.github.com/JoaumVictor"><img src="https://github-readme-stats.vercel.app/api?username=JoaumVictor&show_icons=true&theme=radical" alt="Estatísticas do GitHub" /></a>
-  <a href="https://github.com/JoaumVictor"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaumVictor&show_icons=true&theme=radical&layout=compact" alt="Top Languages" /></a>
+  <a href="https://github.com/JoaumVictor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaumVictor&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&card_width=350&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaumVictor&layout=compact&langs_count=8&theme=radical&&show_owner=true"/>
 </div>
