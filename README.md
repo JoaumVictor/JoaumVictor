@@ -58,7 +58,7 @@
 <h2 align="center">Ferramentas 🛠️</h2>
 <div align="center">
   <br>
-  <img src=" https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" width="60" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VSCODE" width="60" height="60"/>
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="60" width="70"/> 
   <img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>
@@ -69,6 +69,8 @@
  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="slack" width="60" height="60"/>
  <img src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" alt="heroku" width="60" height="60"/>
  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="60" height="60"/>
+ <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" alt="insomnia" width="60" height="60"/>
+ 
 </div>
 
 <br/><br/>
