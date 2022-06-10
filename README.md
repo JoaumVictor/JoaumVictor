@@ -1,6 +1,6 @@
-<img src="./img/myicon.jpg" align="right" width="290px" /><br><br><br><br>
+<img src="./img/myicon.jpg" align="right" width="320px" /><br><br><br><br>
 
-<h2 align="center" style="text-decoration: none"> < Victor Dev 🍪☕ /> </h2>
+<h1 align="center"> < Victor Dev 🍪☕ /> </h1>
 <div align="center">
   <h4>🚩 Desenvolvedor Fullstack</h4>
   <h4>🏮 Gosto de assistir animes e jogar videogame 🎮</h4>
@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/joaumvictor.oficial/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </div>
 
-<br><br/>
+<br><br/><br/>
 
 <h2 align="center">Stacks Front-end 🚩</h2>
 <div align="center">
