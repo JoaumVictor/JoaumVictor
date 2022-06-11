@@ -49,7 +49,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
   <img src="https://www.samuelathanas.com/images/skills/backend/express.png" alt="express" width="60" height="60"/>
-  
+  <br/>
   <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" alt="mocka" width="60" height="60"/>
   <img src="https://sinonjs.org/assets/images/logo.png" alt="sinon" width="60" height="60"/>
   <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chai" width="60" height="60"/>
@@ -66,7 +66,7 @@
   <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" alt="insomnia" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" alt="dbeaver" width="60" height="60"/>
-  
+  <br/>
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="60" width="70"/> 
   <img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60"/>
