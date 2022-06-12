@@ -1,4 +1,6 @@
-<img style="border-radius: 50px" src="./img/myicon.jpg" align="right" width="320px" /><br><br><br><br>
+<img src="./img/myicon.jpg" align="right" width="320px" height="360px" />
+
+<br><br><br><br>
 
 <h1 align="center"> < Victor Dev 🍪☕ /> </h1>
 <div align="center">
