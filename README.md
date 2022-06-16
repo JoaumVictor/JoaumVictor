@@ -5,7 +5,7 @@
 <h1 align="center"> < Victor Dev 🍪☕ /> </h1>
 <div align="center">
   <h4>🚩 Desenvolvedor Fullstack</h4>
-  <h4>🏮 Gosto de assistir animes e jogar videogame 🎮</h4>
+  <h4>🏮 Gosto de assistir animes e desenhar 🎨</h4>
   <h4>🏹 Professional bug <s>developer</s> hunter</h4>
   <br/>
   <a href="https://www.linkedin.com/in/victorfausto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
