@@ -95,15 +95,15 @@
 
 ![](./gifs/IfoodProjectGif.gif)
 
-![](./gifs/DungeonsGameGif.gif)
+![](./gifs/MercadinhoLivreGif.gif)
 
 ![](./gifs/LoginResponsivoGif.gif)
 
 ![](./gifs/ItemsAnimadosGif.gif)
 
-![](./gifs/MercadinhoLivreGif.gif)
-
 ![](./gifs/PokedexGif.gif)
+
+![](./gifs/DungeonsGameGif.gif)
 
 
 <br/><br/>
