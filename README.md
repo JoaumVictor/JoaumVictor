@@ -89,9 +89,38 @@
 
 <br/><br/>
 
+<h2 align="center">Alguns Projetos 🎃</h2>
+<br/>
+
+
+![](./gifs/DungeonsGameGif.gif)
+
+![](./gifs/IfoodProjectGif.gif)
+
+![](./gifs/ItemsAnimadosGif.gif)
+
+![](./gifs/GameRpgGif.gif)
+
+![](./gifs/ListaProjectGif.gif)
+
+![](./gifs/LoginResponsivoGif.gif)
+
+![](./gifs/MercadinhoLivreGif.gif)
+
+![](./gifs/PokedexGif.gif)
+
+![](./gifs/YuGiOhCardGif.gif)
+
+
+<br/><br/>
+
 <h2 align="center">Estatísticas 📈</h2>
 <div align="center">
   <a href="https://github.com/JoaumVictor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaumVictor&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&card_width=350&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaumVictor&layout=compact&langs_count=8&theme=radical&&show_owner=true"/>
 </div>
+
+<br/><br/>
+
+<p align="center">Obrigado por ler! 😙</p>
