@@ -93,23 +93,17 @@
 <br/>
 
 
-![](./gifs/DungeonsGameGif.gif)
-
 ![](./gifs/IfoodProjectGif.gif)
 
-![](./gifs/ItemsAnimadosGif.gif)
-
-![](./gifs/GameRpgGif.gif)
-
-![](./gifs/ListaProjectGif.gif)
+![](./gifs/DungeonsGameGif.gif)
 
 ![](./gifs/LoginResponsivoGif.gif)
+
+![](./gifs/ItemsAnimadosGif.gif)
 
 ![](./gifs/MercadinhoLivreGif.gif)
 
 ![](./gifs/PokedexGif.gif)
-
-![](./gifs/YuGiOhCardGif.gif)
 
 
 <br/><br/>
